@@ -29,5 +29,5 @@
   > 달리는 차의 속도를 생동감 있게 표현해줘. 고양이가 운전하고 있는 차가 달리다 뒷 차에게 추월당하는 장면을 만들어줘.
 
 
-![F1 고양이 영상](https://user-images.githubusercontent.com/12345678/98765432-123456.gif)
+![F1 고양이 영상](https://github.com/younglee8867/DeepLearning/blob/2847ab207010d931720ff29dc96ccccc2d116464/%5BHW0%5D%20%EA%B8%B0%EB%B3%B8%20%EC%84%A4%EC%A0%95(%EC%82%AC%EC%A7%84)/veo3%20%EC%98%81%EC%83%81.mp4)
 
